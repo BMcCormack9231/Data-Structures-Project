@@ -1,7 +1,4 @@
-# WGU-Projects
-Academic projects in Java
-
-American State Capitals - Java Program
+# American State Capitals - Java Program
 
 This Java program is an academic project aimed at familiarizing oneself with different data structures in Java. It explores sorting arrays and manipulating data using HashMaps and TreeMap.
 
